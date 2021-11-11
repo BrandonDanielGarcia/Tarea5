@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tarea5</string>
+    <string name="name">Nombre:</string>
+    <string name="email">Correo:</string>
+    <string name="phone">Numero telefonico:</string>
+    <string name="old">Edad:</string>
+    <string name="curp">CURP:</string>
+    <string name="state">Estado:</string>
+    <string name="convertButtom">Convertir</string>
+    <string name="jsonFormat">Resultado</string>
+</resources>
